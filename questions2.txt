@@ -1,0 +1,20 @@
+Dien tro cua mot day dan ty le thuan voi dai va ty le nghich voi gi?dien tich|dien ap|cuong do dong dien|dien tro|A
+Don vi cua dien dung la gi?farad|coulomb|ampere|volt|A
+Trong mot mach dien xoay chieu, cuong do dong dien va dien ap lech pha nhau mot goc bao nhieu trong mach RLC?0|pi/2|pi|pi/4|B
+Loi cua mot bien the dien dung lam bang chat lieu nao?dong|nhom|sat|thep|A
+Luc tu dong nghia voi khong gian xung quanh mot...?nam cham|dien tich|dong dien|luc dien|C
+Tu truong cua dong dien thang dai duoc mo ta boi?Ampere|Faraday|Coulomb|Newton|A
+Dong dien cam ung xuat hien khi?dien ap thay doi|dong dien thay doi|tu truong thay doi|luc dien thay doi|C
+Tinh chat nao cua song dien tu cho phep truyen thong khong day?doan hoi|suc luong|truyen xuyen chan khong|mat dut|C
+Buc xa hong ngoai la song co...?tan so cao|tan so thap|buc xa ion hoa|sieu am|B
+Ong dan song trong song dien tu la gi?chat dan|chat cach|mot ong kim loai|mot soi quang|C
+Cong thuc tinh dien tro toan phan cua mach RLC?R+L+C|R^2+L^2+C^2|sqrt(R^2+(wL-1/wC)^2)|wL+1/wC|C
+Su khac nhau giua tu truong va dien truong?giong nhau|khac nguon tao|khac tan so|khac huong|B
+Nguon goc cua tu truong la?dong dien|dien ap|tu truong|suc dien dong|A
+Tac dung cua mot tu truong len mot dong dien duoc mo ta boi?Luc Lorentz|Luc Ampere|Luc Faraday|Luc Newton|B
+Ban kinh quay cua hat mang dien trong tu truong ty le nghich voi?dien tich|van toc|dien the|cuong do tu truong|D
+Song nao co tan so lon hon?am thanh|anh sang|dong dien|sieu am|B
+Ban chat cua song dien tu la?dao dong dien truong|dao dong tu truong|dao dong cua ca dien truong va tu truong|dao dong song am|C
+Chieu cua dong dien cam ung xac dinh theo?dinh luat Faraday|dinh luat Lenz|dinh luat Ohm|dinh luat Ampere|B
+Don vi cua cam ung tu la gi?tesla|weber|henry|volt|A
+Luc tu tac dung len mot hat mang dien dang chuyen dong?luc tu Lorentz|luc huong tam|luc ap suat|luc dan hoi|A

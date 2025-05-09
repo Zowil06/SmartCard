@@ -1,0 +1,21 @@
+Ngon ngu lap trinh nao duoc dung trong chuong trinh nay?Python|C++|Java|C#|B
+Trong C++, tu khoa nao dung de khai bao lop?for|while|class|switch|C
+Lenh in ra man hinh trong C++ la gi?cout|cin|printf|puts|A
+Toan tu nao dung de chia lay so du trong C++?+|*|%|/|C
+Kieu du lieu nao dung de luu so nguyen trong C++?float|int|char|bool|B
+Ham nao dung de nhap du lieu tu ban phim trong C++?cin|cout|printf|scanf|A
+Vong lap nao dung de lap khi biet truoc so lan lap?for|while|do-while|switch|A
+Cau truc dieu kien nao dung trong C++?if|for|cin|int|A
+Ham nao dung de xuat du lieu ra man hinh trong C++?cin|cout|class|return|B
+Tu khoa nao dung de dinh nghia ham trong C++?function|define|void|new|C
+Kieu du lieu nao dung de luu so thuc trong C++?int|double|char|bool|B
+Toan tu so sanh bang trong C++ la gi?==|=|!=|<=|A
+Thu vien nao dung de su dung cout trong C++?cstdlib|iostream|cmath|stdio|B
+Tu khoa nao dung de ket thuc ham va tra ve gia tri?return|break|continue|goto|A
+Ham nao dung de tinh can bac 2 trong C++?sqrt|pow|abs|ceil|A
+Toan tu logic nao dung de kiem tra ca hai dieu kien dung?&&|!| |||==|A
+Kieu du lieu nao luu mot ky tu trong C++?string|char|int|bool|B
+Cach nao de viet mot chuoi ki tu trong C++?""|''|| |||A
+Lenh nao dung de dung chuong trinh trong C++?stop|pause|exit|return|D
+Tu khoa nao dung de tao doi tuong trong lap trinh huong doi tuong?new|create|malloc|object|A
+
